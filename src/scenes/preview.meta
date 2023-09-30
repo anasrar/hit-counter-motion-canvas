@@ -1,0 +1,14 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "preview-light",
+      "targetTime": 3.1979516356268944
+    },
+    {
+      "name": "preview-change-src",
+      "targetTime": 5.36982191495381
+    }
+  ],
+  "seed": 1803630066
+}

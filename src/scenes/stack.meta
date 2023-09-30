@@ -1,0 +1,18 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "deno",
+      "targetTime": 6.988169959310198
+    },
+    {
+      "name": "fresh",
+      "targetTime": 9.429742072092264
+    },
+    {
+      "name": "satori",
+      "targetTime": 12.896925757149566
+    }
+  ],
+  "seed": 1511134380
+}
